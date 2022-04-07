@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rjkappel19 I am currently living in Denver CO and love snowboarding, climbing, and tennis
-- 👀 I’m interested in ... QA maunual and want to learn more about automation
+- 👋 Hi, I’m @rjkappel19 I am currently living in Denver CO I work for United Airlines and really want to work for them in IT. I love snowboarding, climbing, and tennis. I like to be active :)
+- 👀 I’m interested in ... QA maunual Engineering and want to learn more about automation
 - 🌱 I’m currently learning ... QA Engineering (Manual) 
 - 💞️ I’m looking to collaborate on ... Jira or whatever works for everyone
 - 📫 How to reach me ... rjkappel19@yahoo.com
